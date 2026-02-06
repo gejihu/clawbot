@@ -1,0 +1,2 @@
+# clawbot
+openclaw
